@@ -1,0 +1,63 @@
+# 
+# this list of ponmocup malware redirection domains and infected web-servers is maintained by 
+# email:   toms.security.stuff -at- gmail.com
+# twitter: @c_APT_ure
+# blog:    http://c-apt-ure.blogspot.com/
+#
+# full log file:
+# http://security-research.dyndns.org/pub/botnet/ponmocup/ponmocup-finder/ponmocup-infected-domains-latest.txt
+#
+# format:
+# ponmocup-malware-IP ponmocup-malware-domain ponmocup-malware-URI-path ponmocup-htaccess-infected-domain
+# 
+# last updated: Wed 28 Jun 2023 12:29:05 PM PDT
+#
+/ abusalewm.exceltoner.com http://abusalewm.exceltoner.com/url www.timelessimagesmi.com
+/ allintercom.net http://allintercom.net/cgi-bin/r.cgi www.elsiedesigns.com
+/ allintercom.net http://allintercom.net/cgi-bin/r.cgi www.mazus-art.com
+/ besidesdream.com http://besidesdream.com/cgi-bin/r.cgi www.hostal3soles.com
+/ besidesdream.com http://besidesdream.com/cgi-bin/r.cgi www.zoeblitzer-natursteine.de
+/ bidin.golfnewslouisiana.com http://bidin.golfnewslouisiana.com/b www.destrangers.org
+/ capitalinformer.com http://capitalinformer.com/cgi-bin/r.cgi www.apmc.com.hk
+/ compass.automotiveeventregistration.com http://compass.automotiveeventregistration.com/servlet/ajrotator/2000245/0/vj www.bodasexclusivas.com
+/ elinah.midnightastronomy.com http://elinah.midnightastronomy.com/b/ss/th-web-dev/1/H.24.3/s48689637278662 pmmilrec.com
+/ everybodynames.org http://everybodynames.org/cgi-bin/r.cgi phuongdanhvonghe.edu.vn
+/ formedtouch.com http://formedtouch.com/cgi-bin/r.cgi watchourvideo.net
+/ handsexual.com http://handsexual.com/cgi-bin/r.cgi www.sdfbd.org
+/ infernomag.com http://infernomag.com/cgi-bin/r.cgi www.wonderwhistle.co.uk
+/ interestingchapter.net http://interestingchapter.net/cgi-bin/r.cgi stw-eu.com
+/ jesusonlynet.org http://jesusonlynet.org/cgi-bin/r.cgi police.moraga.ca.us
+/ karepii.dealerholidayevent.com http://karepii.dealerholidayevent.com/b/ss/wmg,wmgatl,wmgd2cparamore,wmgparamoreall/1/H.20.3/s61743588075041 www.vitaminbude.de
+/ metromanias.com http://metromanias.com/cgi-bin/r.cgi bluewingz.com
+/ metromanias.com http://metromanias.com/cgi-bin/r.cgi www.farmasanmodababy.com
+/ mudras.jordandowney.net http://mudras.jordandowney.net/c.gif blackcanyoncoffee.com
+/ omonkhegbele.wenerdhard.com http://omonkhegbele.wenerdhard.com/avatar/13f845eeeca251fc34e2823d2af5c0c0 www.aca-uccle.be
+/ renolla.golfnewsnewyork.com http://renolla.golfnewsnewyork.com/data/RNRoc1azVY00oW d-math1.com
+/ severalcamp.com http://severalcamp.com/cgi-bin/r.cgi cdcookingbook.com
+/ severalcamp.com http://severalcamp.com/cgi-bin/r.cgi eniaktesting.com
+/ severalcamp.com http://severalcamp.com/cgi-bin/r.cgi pileus.fr
+/ tagipur.mrsstyleseeker.com http://tagipur.mrsstyleseeker.com/delivery/lg.php www.therapiehyperbare.com
+/ teethalong.org http://teethalong.org/cgi-bin/r.cgi harlawacademy.org
+/ trackallnet.com http://trackallnet.com/cgi-bin/r.cgi blog.autourdeminuit.com
+/ trackallnet.com http://trackallnet.com/cgi-bin/r.cgi www.geoffwhite.ws
+/ trafficsources.org http://trafficsources.org/cgi-bin/r.cgi 1980622.com
+/ trafficsources.org http://trafficsources.org/cgi-bin/r.cgi kw-dl.com
+/ travelmeant.net http://travelmeant.net/cgi-bin/r.cgi afag.com.br
+/ trialworld.net http://trialworld.net/cgi-bin/r.cgi www.loxsavvy.com.au
+/ virtualmapping.org http://virtualmapping.org/cgi-bin/r.cgi janeece.com
+/ virtualmapping.org http://virtualmapping.org/cgi-bin/r.cgi www.mywoom.com
+/ voictoall.com http://voictoall.com/cgi-bin/r.cgi agroservis.rs
+/ wcameron.powerplaycreative.com http://wcameron.powerplaycreative.com/__utm.gif www.log-in-verlag.de
+/ www.directdomains.com https://www.directdomains.com/profile/vidimozz.com vidimozz.com
+/ www.domainkompetenz.de https://www.domainkompetenz.de/domain/index.php laserme.de
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm avicennaglobal.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm bcrwd.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm desifucker.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm hdstreamangas.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm nitpl.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm optipaint.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm rollingonline.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm swchan.com
+/ www.hugedomains.com https://www.hugedomains.com/domain_profile.cfm webdesignfm.com
+/ yinpou.aredietsok.com http://yinpou.aredietsok.com/st www.rollershop.de
+/ zahasky.greatserviceforless.com http://zahasky.greatserviceforless.com/www/delivery/lg.php stillcatholic.com
