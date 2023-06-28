@@ -14,7 +14,7 @@ The output will contain statuses as follows:
 1. Blocked: The DNS resolved to the UDDR blocked page
 2. Not Blocked: Resolved, but wasn't blocked
 3. PTR: IP addresses will be PTR queries
-4, Anything else that returns a status that isn't '0' (NOERR) will give the status message (NXDOMAIN, SERVFAIL, etc.)
+4. Anything else that returns a status that isn't '0' (NOERR) will give the status message (NXDOMAIN, SERVFAIL, etc.)
 
 ## Setup
 
