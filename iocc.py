@@ -38,6 +38,7 @@ class IOC:
                 self.status = 'PTR'
             elif ddr_status['rcode'] == 0:
                 block_info = ddr_results.block_info()
+                print(str(block_info))
                 if block_info['blocked']:
                     self.status = 'Blocked'
                 else:
