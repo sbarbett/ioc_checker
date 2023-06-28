@@ -37,7 +37,8 @@ class IOC:
             if q_type == 12:
                 self.status = 'PTR'
             elif ddr_status['rcode'] == 0:
-                if 'is blocked by UDDR' in ddr_results.block_info():
+                block_info = ddr_results.block_info()
+                if block_info['blocked']:
                     self.status = 'Blocked'
                 else:
                     self.status = 'Not Blocked'

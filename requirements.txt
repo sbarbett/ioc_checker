@@ -1,1 +1,1 @@
-uddr_client~=0.2.2
+uddr_client~=0.2.3
